@@ -1,11 +1,29 @@
 body{
   background-image: url("https://i.imgur.com/5MnTBD8.png");
-  align-content: center;
-  background-color: black;
+  margin: auto;
 }
+
 h1   {
-  color: green;
+  color: white;
 }
 p    {
-  color: red;
+  color: white;
+}
+
+.main{
+  background-color: white;
+  margin: 100px;
+  margin-top:300px;
+  margin-left: 300px;
+}
+
+.text{
+  background-image: url("https://i.pinimg.com/736x/8d/85/77/8d8577894c91053d843427b4a918bf8c.jpg");border-radius: 35%;
+  margin-left: 500px;
+  margin-right: 500px;
+  overflow: 0;
+  position: relative;
+  background-color: white;
+  height: 600px;
+  width: 640px;
 }
